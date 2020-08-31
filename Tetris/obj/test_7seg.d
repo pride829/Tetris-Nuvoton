@@ -1,0 +1,14 @@
+.\obj\test_7seg.o: Test_7seg.c
+.\obj\test_7seg.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\test_7seg.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\test_7seg.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\test_7seg.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\test_7seg.o: ..\..\..\Include\System\SysInfra.h
+.\obj\test_7seg.o: ..\..\..\Include\System\ModuleID.h
+.\obj\test_7seg.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\test_7seg.o: ..\..\..\Include\Driver/DrvGPIO.h
+.\obj\test_7seg.o: ..\..\..\Include\Driver/DrvSYS.h
+.\obj\test_7seg.o: LCDlib.h
+.\obj\test_7seg.o: boardlib.h
+.\obj\test_7seg.o: PMWlib.h
+.\obj\test_7seg.o: timerlib.h

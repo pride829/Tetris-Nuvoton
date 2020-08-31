@@ -1,0 +1,10 @@
+.\obj\boardlib.o: boardlib.c
+.\obj\boardlib.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\boardlib.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\boardlib.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\boardlib.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\boardlib.o: ..\..\..\Include\System\SysInfra.h
+.\obj\boardlib.o: ..\..\..\Include\System\ModuleID.h
+.\obj\boardlib.o: boardlib.h
+.\obj\boardlib.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\boardlib.o: ..\..\..\Include\NUC1xx-LB_002\scankey.h

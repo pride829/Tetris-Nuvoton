@@ -1,0 +1,12 @@
+.\obj\lcdlib.o: LCDlib.c
+.\obj\lcdlib.o: LCDlib.h
+.\obj\lcdlib.o: C:\Keil\ARM\RV31\Inc\stdint.h
+.\obj\lcdlib.o: ..\..\..\Include\Driver\DrvSYS.h
+.\obj\lcdlib.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\NUC1xx.h
+.\obj\lcdlib.o: ..\..\..\..\CMSIS\CM0\CoreSupport\core_cm0.h
+.\obj\lcdlib.o: ..\..\..\..\CMSIS\CM0\DeviceSupport\Nuvoton\NUC1xx\system_NUC1xx.h
+.\obj\lcdlib.o: ..\..\..\Include\System\SysInfra.h
+.\obj\lcdlib.o: ..\..\..\Include\System\ModuleID.h
+.\obj\lcdlib.o: ..\..\..\Include\NUC1xx-LB_002\LCD_Driver.h
+.\obj\lcdlib.o: ..\..\..\Include\NUC1xx-LB_002\scankey.h
+.\obj\lcdlib.o: C:\Keil\ARM\RV31\Inc\string.h
